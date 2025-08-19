@@ -193,8 +193,7 @@ For questions or issues with the database setup:
 
 ## 📄 License
 
-This project is provided as an educational example for database design and implementation. Feel free to modify and use for learning purposes.
-
+Open Source
 ---
 
 **Created by**: Database Design Assignment  
